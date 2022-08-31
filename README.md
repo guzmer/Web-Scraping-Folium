@@ -1,5 +1,5 @@
 # Web-Scraping-Visualizing-Data
-Scraping Data and visualizing them on map using folium
+Web Scraping Using Python and Plotting the Data on a Map
 
 This project is about scraping the data locations of a bank agencies and saving them in a CSV file (Data.csv), then visualizing this data on map using folium which is a powerful Python library that helps you create several types of Leaflet maps. By default, Folium creates a map in a separate HTML file. (Map-Data.html)
 
