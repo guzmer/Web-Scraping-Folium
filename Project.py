@@ -301,7 +301,7 @@ try:
     folium.LayerControl(collapsed= False).add_to(mapObj)
 
 
-    mapObj.save('Try1.html')
+    mapObj.save('MAp-Data.html')
 
 except requests.exceptions.ConnectionError as errc:
     print ("Error Connecting:",errc)
